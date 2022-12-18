@@ -1,2 +1,2 @@
-FROM requarks/wiki
+FROM requarks/wiki:latest
 EXPOSE 3000
